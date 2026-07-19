@@ -33,7 +33,7 @@ A menu-driven Student Management System built in Python to practice core program
 ```
 student-management-system/
 │
-├── student_management.py
+├── Student_Management_System.py
 └── README.md
 ```
 
