@@ -1,0 +1,11 @@
+{
+    "1": {
+        "name": "anya",
+        "age": 56,
+        "marks": {
+            "Math": 89,
+            "Science": 78,
+            "English": 58
+        }
+    }
+}
