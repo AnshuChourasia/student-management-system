@@ -91,6 +91,20 @@ This project helped me practice:
 - Improving problem-solving and debugging skills
 - Structuring Python projects using Git and GitHub
 
+ ## Features
+
+- Add Student
+- View Students
+- Search Student
+- Update Student
+- Delete Student
+- Calculate Average Marks
+- Find Highest Scorer
+- Calculate Grades
+- Count Total Students
+- JSON-based data persistence
+- Exception handling for invalid input
+
 ## 👨‍💻 Author
 
 **Anshu Chourasia**
